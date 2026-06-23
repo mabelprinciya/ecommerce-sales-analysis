@@ -1,0 +1,31 @@
+Order_ID,Date,Product,Category,Quantity,Price
+1001,05-01-2025,Laptop,Electronics,1,50000
+1002,06-01-2025,Headphones,Electronics,2,1500
+1003,08-01-2025,T-Shirt,Clothing,3,800
+1004,10-01-2025,Shoes,Footwear,1,2500
+1005,12-01-2025,Mobile Phone,Electronics,1,20000
+1006,15-01-2025,Watch,Accessories,2,3000
+1007,18-01-2025,Backpack,Bags,1,1200
+1008,20-01-2025,Laptop,Electronics,1,50000
+1009,22-01-2025,T-Shirt,Clothing,4,800
+1010,25-01-2025,Shoes,Footwear,2,2500
+1011,01-02-2025,Mobile Phone,Electronics,2,20000
+1012,03-02-2025,Watch,Accessories,1,3000
+1013,05-02-2025,Backpack,Bags,3,1200
+1014,08-02-2025,Headphones,Electronics,5,1500
+1015,10-02-2025,Shoes,Footwear,1,2500
+1016,12-02-2025,Laptop,Electronics,1,50000
+1017,15-02-2025,T-Shirt,Clothing,2,800
+1018,18-02-2025,Mobile Phone,Electronics,1,20000
+1019,20-02-2025,Watch,Accessories,2,3000
+1020,22-02-2025,Backpack,Bags,1,1200
+1021,01-03-2025,Laptop,Electronics,2,50000
+1022,03-03-2025,Headphones,Electronics,3,1500
+1023,05-03-2025,T-Shirt,Clothing,5,800
+1024,08-03-2025,Shoes,Footwear,2,2500
+1025,10-03-2025,Mobile Phone,Electronics,1,20000
+1026,12-03-2025,Watch,Accessories,1,3000
+1027,15-03-2025,Backpack,Bags,2,1200
+1028,18-03-2025,Laptop,Electronics,1,50000
+1029,20-03-2025,T-Shirt,Clothing,4,800
+1030,25-03-2025,Shoes,Footwear,3,2500
